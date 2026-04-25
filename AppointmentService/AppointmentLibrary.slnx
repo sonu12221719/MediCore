@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AppointmentLibrary/AppointmentLibrary.csproj" />
+  <Project Path="AppointmentService.API/AppointmentService.API.csproj" />
+</Solution>

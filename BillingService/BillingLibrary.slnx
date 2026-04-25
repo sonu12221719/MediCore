@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Billing.Api/Billing.Api.csproj" />
+  <Project Path="BillingLibrary/BillingLibrary.csproj" />
+</Solution>

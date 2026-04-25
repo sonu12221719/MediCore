@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pharmacy.API/Pharmacy.API.csproj" />
+  <Project Path="PharmacyLibrary/PharmacyLibrary.csproj" />
+</Solution>

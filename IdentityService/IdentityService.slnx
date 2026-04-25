@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IdentityService.API/IdentityService.API.csproj" Id="3776181f-ba29-430b-99e0-41a11acdb24e" />
+  <Project Path="IdentityServiceLibrary/IdentityServiceLibrary.csproj" />
+</Solution>

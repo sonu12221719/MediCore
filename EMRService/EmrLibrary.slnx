@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Emr.API/Emr.API.csproj" />
+  <Project Path="EmrLibrary/EmrLibrary.csproj" />
+</Solution>

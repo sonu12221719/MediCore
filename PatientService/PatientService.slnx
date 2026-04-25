@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PatientLibrary/PatientLibrary.csproj" />
+  <Project Path="PatientService.API/PatientService.API.csproj" />
+</Solution>

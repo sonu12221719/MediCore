@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Data/" />
+  <Folder Name="/Entities/" />
+  <Folder Name="/Exceptions/" />
+  <Folder Name="/Repository/" />
+  <Project Path="NotificationLibrary/NotificationLibrary.csproj" />
+</Solution>

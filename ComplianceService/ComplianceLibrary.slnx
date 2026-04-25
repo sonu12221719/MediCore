@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Compliance.API/Compliance.API.csproj" />
+  <Project Path="ComplianceLibrary/ComplianceLibrary.csproj" />
+</Solution>
